@@ -1,8 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Merve Yildirim</h1>
-<h3 align="center">Merhaba. Ben web programlama üzerine yoğunlaşan bir bilgisayar mühendisiyim. Bu aralar NextJS üzerine odaklansam da yorulduğumda GO ile dinleniyorum. Yazılımı seviyorum ve hayatımın bir parçası olarak görüyorum. Kısacası yazılıma merak salmış birinin sayfasına hoş geldin</h3>
+
+
 # 💫 About Me:
+
+<h3 align="center">Hello. I am a computer engineer focused on web programming. Recently, I have been focusing on NextJS, but when I get tired of it, I relax with GO. I love software and see it as a part of my life. In short, welcome to the page of someone who is fascinated by software.</h3>
+
+
 - 🔭 I’m currently working on Next.js **User CRUD**<br>- 🌱 I’m currently learning **Golang**<br>- 👨‍💻 All of my projects are available at [http://yildirimmerve.com.tr/](http://yildirimmerve.com.tr/)<br>- 📫 How to reach me **merveyldrm890@gmail.com**<br>- 📄 Know about my experiences [https://yildirimmerve.com.tr/#egitim](https://yildirimmerve.com.tr/#egitim)
+
+
+# 💫 Hakkımda.
+
+<h3 align="center">Merhaba. Ben web programlama üzerine yoğunlaşan bir bilgisayar mühendisiyim. Bu aralar NextJS üzerine odaklansam da yorulduğumda GO ile dinleniyorum. Yazılımı seviyorum ve hayatımın bir parçası olarak görüyorum. Kısacası yazılıma merak salmış birinin sayfasına hoş geldin</h3>
+
+-🔭 Şu anda Next.js Kullanıcı CRUD üzerinde çalışıyorum.<br> - 🌱 Şu anda Golang öğreniyorum.<br>- 👨‍💻 Tüm projelerim http://yildirimmerve.com.tr/ adresinde mevcut.<br>- 📫 Benimle iletişim kurmak için merveyldrm890@gmail.com adresini kullanabilirsiniz.<br>- 📄 Deneyimlerim hakkında bilgi almak için https://yildirimmerve.com.tr/#egitim adresini ziyaret edebilirsiniz.
 
 
 ## 🌐 Socials:
