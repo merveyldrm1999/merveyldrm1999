@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Merve Yildirim</h1>
 
 
-# 💫 About Me: EN
+# 💫 About Me: 🇺🇸
 
 <h3 align="center">Hello. I am a computer engineer focused on web programming. Recently, I have been focusing on NextJS, but when I get tired of it, I relax with GO. I love software and see it as a part of my life. In short, welcome to the page of someone who is fascinated by software.</h3>
 
